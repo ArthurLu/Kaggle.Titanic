@@ -1,2 +1,4 @@
 # csv files
 *.csv
+# dummy files
+.ipynb_checkpoints/*
